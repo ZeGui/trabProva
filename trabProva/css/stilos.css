@@ -1,0 +1,16 @@
+div.main{
+  border: 3px;
+}
+
+body{
+  text-align: center;
+}
+
+form.cadastro{
+  margin-left: 85%;
+  margin-right: 15%;
+}
+
+input.insere{
+  margin-bottom: 7.5px;
+}
